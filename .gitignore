@@ -1,0 +1,13 @@
+# Рендер-артефакты (генерируются render_v44.cjs)
+prototype/v44-desk.png
+prototype/v44-mob.png
+prototype/chk-*.png
+
+# Переписка с заказчиком — содержит пароль reg.ru, в репозиторий не включаем
+research/chat.md
+research/chat.txt
+
+# Системное
+.DS_Store
+__pycache__/
+*.pyc
